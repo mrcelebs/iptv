@@ -5,3 +5,6 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png", Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="https://iptvx.one/picons/strashnoe-hd.png", Страшное HD
+https://tv.tvcdnpotok.com/HS7EIWdXI9tZ0yRGWtkLXQ/216/1781448120/index.m3u8
+
